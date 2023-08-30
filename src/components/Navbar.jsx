@@ -78,7 +78,7 @@ const Navbar = () => {
       </li>
       <li className='py-6 text-4xl hover:scale-110'>
         {' '}
-        <Link onClick={handleClick} to='Project' smooth={true} duration={500}>
+        <Link onClick={handleClick} to='Projects' smooth={true} duration={500}>
           Projects
         </Link>
       </li>
