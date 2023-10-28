@@ -27,8 +27,7 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                A Software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in Web principles and
+                A MERN developer with experience in building Responsive, Scalable Web apps and interacting with APIs. I am well-knowledged in Web principles and
                 practices.
               </p>
             </div>

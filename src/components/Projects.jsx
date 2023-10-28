@@ -1,7 +1,6 @@
 import React from 'react'
 import codes from '../images/Gabby.png';
 import code from '../images/Movie-App.png';
-import codess from '../images/Binex-Exchange.png';
 
 const Projects = () => {
   
@@ -66,15 +65,15 @@ const Projects = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${codess})` }}
+            // style={{ backgroundImage: `url(${codess})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Binex Exchange 
+                Blog Site 
               </span>
-              <p className='text-center'>A Cryptocurrency platform built with NextJs, Material UI</p>
+              <p className='text-center'>A simple Blog website where users can add, delete and update blogs, built with React.js, Node.js, Express & MongoDB</p>
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>

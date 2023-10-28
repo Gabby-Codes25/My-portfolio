@@ -29,13 +29,16 @@ const Skills = () => {
                   <p className='my-4'>NEXTJS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>TYPESCRIPT</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>GITHUB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>NODE JS</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>EXPRESS</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>MONGODB</p>
               </div>
           </div>
       </div>
