@@ -47,16 +47,16 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Movie App
+                Movie Database
               </span>
-              <p className='text-center'>A Movie web application built with React Js</p>
+              <p className='text-center'>A Movie Database where users can add their favourite movies for reference, built with Html, Css, & JavaScript</p>
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Gabby-Codes25/React-Movie-App.git'>
+                <a href='https://github.com/Gabby-Codes25/Movie-Database.git'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -71,9 +71,9 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Blog Site 
+                Goal Web App 
               </span>
-              <p className='text-center'>A simple Blog website where users can add, delete and update blogs, built with React.js, Node.js, Express & MongoDB</p>
+              <p className='text-center'>A simple Goal website where users can add, delete and update goals, built with React.js, Node.js, Express & MongoDB</p>
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
