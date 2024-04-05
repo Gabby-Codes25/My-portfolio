@@ -47,16 +47,16 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Movie Database
+                GTech
               </span>
-              <p className='text-center'>A Movie Database where users can add their favourite movies for reference, built with Html, Css, & JavaScript</p>
+              <p className='text-center'>An E-Commerce website where users can purchase all kinds of gadgets & electronics.</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://gtech-kappa.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Gabby-Codes25/Movie-Database.git'>
+                <a href='https://github.com/Gabby-Codes25/gtech'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
