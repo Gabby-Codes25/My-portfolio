@@ -1,6 +1,6 @@
 import React from 'react'
 import codes from '../images/Gabby.png';
-// import code from '../images/Movie-App.png';
+import code from '../images/Gtech.png';
 
 const Projects = () => {
   
@@ -41,7 +41,7 @@ const Projects = () => {
             </div>
           </div>
           <div
-            // style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
