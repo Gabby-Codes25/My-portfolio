@@ -14,7 +14,6 @@ const Contact = () => {
       })
       .then(
         () => {
-          console.log('SUCCESS!');
           e.target.reset()
         },
         (error) => {
